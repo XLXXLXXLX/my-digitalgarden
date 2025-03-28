@@ -2940,7 +2940,9 @@ PS：《[[法条/部门规章/工资支付暂行规定\|工资支付暂行规定
 **未签书面劳动合同的双倍工资**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -2952,9 +2954,13 @@ PS：《[[法条/部门规章/工资支付暂行规定\|工资支付暂行规定
 #### **试用期工资**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+---
+dg-publish: true
+---
 
 试用期工资不得低于本单位**相同岗位最低档工资的80%** 或者不得低于 **劳动合同约定工资的80%**，并不得低于用人单位所在地的**最低工资**。
 
@@ -2983,7 +2989,9 @@ PS：《[[法条/部门规章/工资支付暂行规定\|工资支付暂行规定
 #### **提成，绩效，年终奖，补贴**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -3322,9 +3330,13 @@ PS：在法院裁决过程中，对于绩效、提成以及补贴首先考虑的
 **A：** 有。
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+---
+dg-publish: true
+---
 
 《[[法条/部门规章/工资支付暂行规定\|工资支付暂行规定]]》第13条：实行计件工资的劳动者，在完成计件定额任务后，由用人单位安排延长工作时间的，应根据上述规定的原则，分别按照不低于其本人法定工作时间计件单价的150％、200％、300％支付其工资。
 
@@ -3538,7 +3550,9 @@ PS：在法院裁决过程中，对于绩效、提成以及补贴首先考虑的
 #### **工伤认定需要的材料**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -4376,7 +4390,7 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 **A：** 劳务派遣单位（用人单位）。
 
 #### 什么是劳务派遣协议？  
-**A：** 是**用人单位与用工单位**就劳务派遣事宜签订的合同。其应当包括的内容详见《劳务派遣暂行规定》第七条。
+**A：** 是**用人单位与用工单位**就劳务派遣事宜签订的合同。其应当包括的内容详见《[[法条/部门规章/劳务派遣暂行规定\|劳务派遣暂行规定]]》第七条。
 
 ---
 
@@ -4384,11 +4398,13 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 
 **A：**
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
- 《劳务派遣暂行规定》第三条：“用工单位只能在**临时性、辅助性或者替代性**的工作岗位上使用被派遣劳动者。”
+
+
+ 《[[法条/部门规章/劳务派遣暂行规定\|劳务派遣暂行规定]]》第三条：“用工单位只能在**临时性、辅助性或者替代性**的工作岗位上使用被派遣劳动者。”
 
 - **临时性**工作岗位是指存续时间不超过六个月的岗位。
 - **辅助性**工作岗位是指为主营业务岗位提供服务的非主营业务岗位。不过，实际操作中用工单位在看到劳务派遣优势后常常在同一岗位上进行了混同用工。
@@ -5150,7 +5166,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5173,7 +5191,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5200,7 +5220,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 
 **A：** 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5218,7 +5240,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 
 **A：** 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5230,7 +5254,7 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 
 #### 劳务派遣中的辞退和退回是什么？  
 **A：** 辞退是指用人单位主动和劳动者解除劳动关系。这里仍然适用一般步骤。    
-退回是指用工单位把劳动者退回用人单位。根据《劳务派遣暂行规定》第十二条，被派遣劳动者退回后在无工作期间，劳务派遣单位应当按照不低于所在地人民政府规定的最低工资标准，向其按月支付报酬。
+退回是指用工单位把劳动者退回用人单位。根据《[[法条/部门规章/劳务派遣暂行规定\|劳务派遣暂行规定]]》第十二条，被派遣劳动者退回后在无工作期间，劳务派遣单位应当按照不低于所在地人民政府规定的最低工资标准，向其按月支付报酬。
 
 ---
 
@@ -5245,7 +5269,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5267,7 +5293,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 用工单位**不能退回**的情况
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5309,7 +5337,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 #### **工资清偿制度：**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5331,7 +5361,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 #### **专用账户制度**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -5348,9 +5380,13 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 #### **总包代发工资制度**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+---
+dg-publish: true
+---
 
 工程建设领域推行分包单位农民工工资委托施工总承包单位代发制度。**分包单位**应当按月考核农民工工作量并**编制工资支付表**，经农民工本人签字确认后，与当月工程进度等情况一并交施工总承包单位。**施工总承包单位根据分包单位编制的工资支付表**，通过农民工工资专用账户**直接将工资支付到农民工本人的银行账户**，并向分包单位提供**代发工资凭证**。
 
@@ -5362,7 +5398,9 @@ c) 在履行工作职责中被人段打致伤者,须出具公安部门出具的
 #### **维权信息公示与投诉处理**
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/qa//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
